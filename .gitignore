@@ -1,0 +1,12 @@
+# Node dependencies
+node_modules/
+
+# CDK output and context
+cdk.out/
+cdk.context.json
+.cdk.staging/
+
+# OS / editor noise
+.DS_Store
+.env
+
